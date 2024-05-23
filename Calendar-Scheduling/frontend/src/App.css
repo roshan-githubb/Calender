@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.Calendar {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.MuiSnackbarContent-message {
+  width: 100% ;
+}
+
+
+
+.Calendar__container {
+  margin-top: 30px;
+}
+
+.Calendar__container__content {
+  width: 100%;
+}
+
+.custom-list-item {
+  align-items: baseline; 
+}
+
+
+
+.react-calendar__tile {
+  width: calc(100% / 7);
+  height: 100px; 
+  overflow: hidden; 
+}
+.react-calendar {
+  width: 720px !important;
+}
+
+.event-content {
+  font-size: 12px;
+  color: rgb(63, 136, 112);
+
+}
+
+
+
