@@ -1,4 +1,4 @@
-# Calendar-SCheduling
+# Calendar-Scheduling
 
 1. The Calendar-Scheduling application operates by initializing a socket.io object upon node.js express application startup to enable instant communication among connected browser clients.
 2. Data management is facilitated through a SQLite3 database, accessible via three endpoints: /events/create-new-event, /events/edit-event, and /events/delete-event.
